@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## layout.tsx와 template.tsx
+layout 은 렌더링이 되지 않고 template는 렌더링이 진행된다는 차이점이 있다.
+
+
+
 ## Getting Started
 
 First, run the development server:
