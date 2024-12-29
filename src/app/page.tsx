@@ -6,7 +6,7 @@ import styles from './page.module.css'
 //sass
 //css module
 //vanilla extract -> Windows 와 문제
-
+//a 태그가 아닌  link태그 사용 새로고침을 하면서 넘어가지 않는다.
 import zLogo from '../../public/zlogo.png'
 
 export default function Home() {
